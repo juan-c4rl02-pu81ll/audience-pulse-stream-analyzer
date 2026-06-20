@@ -1,0 +1,8 @@
+{
+  "name": "Audience Pulse Stream Analyzer",
+  "description": "Freemium GenAI portfolio dashboard for YouTube retention, audience signals and capped strategic recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
