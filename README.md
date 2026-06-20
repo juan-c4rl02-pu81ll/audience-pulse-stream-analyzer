@@ -1,5 +1,7 @@
 # Audience Pulse Stream Analyzer
 
+![PulseStream AI — Dashboard Preview](assets/preview.png)
+
 Portfolio freemium de analítica GenAI para videos de YouTube. La app toma una URL pública, extrae señales básicas del video y genera un dashboard de retención, conversación y recomendaciones ejecutivas para creadores de contenido.
 
 > Este repositorio existe para demostrar diseño de producto, integración GenAI, arquitectura full-stack ligera y criterio profesional de documentación. No es la versión premium completa.
